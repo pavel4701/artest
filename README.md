@@ -10,7 +10,7 @@
             <a-asset-item id="tree-model" src="https://raw.githubusercontent.com/pavel4701/pattern-marker./master/kok2.dae" crossOrigin="anonymous"></a-asset-item>
             <a-asset-item id="text-model" src="https://raw.githubusercontent.com/pavel4701/pattern-marker./master/kok.dae" crossOrigin="anonymous"></a-asset-item>
        </a-assets>
-        <a-marker preset='custom' type='pattern' url='https://raw.githubusercontent.com/pavel4701/pattern-marker./master/pattern-marker%20(3).patt'>
+        <a-marker preset='custom' type='pattern' url='https://raw.githubusercontent.com/pavel4701/pattern-marker./master/pattern-marker%20(5).patt'>
 <---display first model     --->
 <a-entity collada-model="#tree-model"></a-entity>
 
