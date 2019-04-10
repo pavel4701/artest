@@ -24,3 +24,4 @@
     <a-entity camera></a-entity>
   </a-scene>
 </body>
+</html>
