@@ -5,7 +5,7 @@
 <body style='margin : 0px; overflow: hidden;'>
   <a-scene embedded arjs='sourceType: webcam;'>
 
-    <a-marker type='pattern' url='https://raw.githubusercontent.com/pavel4701/pattern-marker./master/pattern-marker%20(6).patt'>
+    <a-marker type='pattern' url='https://raw.githubusercontent.com/pavel4701/artest/master/pattern-marker%20(6).patt'>
       <a-box position='0 0.5 0' material='color: red;'></a-box>
     </a-marker>
 
