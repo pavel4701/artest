@@ -10,7 +10,7 @@
 
     <!-- handle marker with hiro preset -->
     <a-marker preset='hiro'>
-      <a-box position='3 3 3' material='color: green;'></a-box>
+      <a-box position='0 0.5 0' material='color: green;'></a-box>
     </a-marker>
 
     <!-- handle barcode marker -->
