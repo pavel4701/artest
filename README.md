@@ -7,8 +7,8 @@
 <body style='margin : 0px; overflow: hidden;'>
     <a-scene embedded arjs='trackingMethod: best; debugUIEnabled:false'>
         <a-assets>
-            <a-asset-item id="tree-model" src="https://raw.githubusercontent.com/pavel4701/artest/master/koks.dae" crossOrigin="anonymous"></a-asset-item>
-            <a-asset-item id="text-model" src="https://raw.githubusercontent.com/pavel4701/artest/master/koks.dae" crossOrigin="anonymous"></a-asset-item>
+            <a-asset-item id="tree-model" src="https://raw.githubusercontent.com/pavel4701/artest/master/Koks.v2.dae" crossOrigin="anonymous"></a-asset-item>
+            <a-asset-item id="text-model" src="https://raw.githubusercontent.com/pavel4701/artest/master/Koks.v2.dae" crossOrigin="anonymous"></a-asset-item>
        </a-assets>
         <a-marker preset='custom' type='pattern' url='https://raw.githubusercontent.com/pavel4701/pattern-marker./master/pattern-marker%20(6).patt'>
 <---display first model     --->
